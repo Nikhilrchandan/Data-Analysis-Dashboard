@@ -13,7 +13,7 @@ This project analyzes coffee shop sales data to uncover trends in customer purch
    
 ## Dashboard
 - Dashboard Interaction <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard/blob/main/project_coffeSales.xlsx">Dashboard</a>
-- View dashboard  <a href="">View dashboard</a>
+- View dashboard  <a href="https://github.com/Nikhilrchandan/Data-Analysis-Dashboard/blob/main/coffee_sales.png">View dashboard</a>
 
 ## Process 
 1.	Data Collection: Extracted transactional data containing store locations, product details, timestamps, and sales values.

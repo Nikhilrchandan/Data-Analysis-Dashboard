@@ -24,17 +24,17 @@ This project analyzes coffee shop sales data to uncover trends in customer purch
 6.	Insights Extraction: Derived meaningful interpretations to guide business decisions.
 
 ## Project Insights
-1  Total Revenue: The coffee shop generated $698,812.33 in total sales.
-•	Total Transactions: 149,116 transactions were recorded.
-•	Top-Selling Products:
-o	Ethiopia Coffee ($42,304.10 revenue)
-o	Sustainably Grown Organic Coffee ($39,065.10 revenue)
-o	Jamaican Coffee River ($38,781.15 revenue)
-•	Peak Sales Hours:
-o	10 AM ($88,673.39 revenue)
-o	9 AM ($85,169.53 revenue)
-o	8 AM ($82,699.87 revenue)
-•	Store Performance: Three store locations contribute to total revenue, with varying sales trends.
+1. Total Revenue: The coffee shop generated $698,812.33 in total sales.
+2.	Total Transactions: 149,116 transactions were recorded.
+3.	Top-Selling Products:
+4.	Ethiopia Coffee ($42,304.10 revenue)
+5.	Sustainably Grown Organic Coffee ($39,065.10 revenue)
+6.	Jamaican Coffee River ($38,781.15 revenue)
+7.	Peak Sales Hours:
+8.	  10 AM ($88,673.39 revenue)
+9. 	9 AM ($85,169.53 revenue)
+10.   8 AM ($82,699.87 revenue)
+11. Store Performance: Three store locations contribute to total revenue, with varying sales trends.
 
 ## Final Conclusion 
 The analysis reveals that morning hours (7 AM - 10 AM) are the most profitable for coffee sales, indicating strong demand for morning caffeine consumption. Premium coffee varieties such as Ethiopian and Jamaican blends drive significant revenue. These insights can help optimize inventory, refine marketing strategies, and enhance customer experience by focusing on high-performing products and peak business hours.

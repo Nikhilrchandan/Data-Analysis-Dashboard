@@ -24,7 +24,7 @@ This project analyzes coffee shop sales data to uncover trends in customer purch
 6.	Insights Extraction: Derived meaningful interpretations to guide business decisions.
 
 ## Project Insights
-•	Total Revenue: The coffee shop generated $698,812.33 in total sales.
+1  Total Revenue: The coffee shop generated $698,812.33 in total sales.
 •	Total Transactions: 149,116 transactions were recorded.
 •	Top-Selling Products:
 o	Ethiopia Coffee ($42,304.10 revenue)
